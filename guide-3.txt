@@ -1,0 +1,54 @@
+***Tic Tac Toe***
+
+** Parte 3 - Dar estilo a la página del proyecto**
+
+
+1. Crear el archivo tic.css en la carpeta del proyecto.
+
+2. Definir un selector de estilo para modificar la
+apariencia del título de la página del juego.
+
+3. Probar el código y preguntar a los estudiantes qué
+observan.
+
+4. Enlazar los documentos "main.html" y "tic.css" mediante
+la definición del elemento link, en el archivo "main.html".
+
+5. Probar el código y preguntar a los estudiantes qué
+observan.
+
+6. Definir un selector de estilo #main para centrar
+los elementos visuales de la página del juego.
+
+7. Probar el código y preguntar a los estudiantes qué
+observan.
+
+8. Definir un selector de estilo #ins para alterar la
+fuente de texto, el color y el tamaño de la fuente
+de las instrucciones del juego que se visualizan en la
+página del mismo.
+
+9. Probar el código y preguntar a los estudiantes qué
+observan.
+
+10. Definir selectores de estilos para alterar la apariencia
+de los elementos input del archivo html. El código se irá
+probando luego de introducir cada propiedad para una mejor
+comprensión de los estudiantes.
+
+11. Definir el selector de estilo para alterar la apariencia
+del botón de la página. El código se irá probando luego de 
+introducir cada propiedad para una mejor comprensión de los 
+estudiantes.
+
+12. 11. Definir el selector de estilo para alterar la apariencia
+del espacio que muestra el turno del jugador. El código se irá 
+probando luego de introducir cada propiedad para una mejor comprensión 
+de los estudiantes.
+
+
+
+
+
+
+
