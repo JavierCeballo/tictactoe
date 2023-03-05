@@ -1,0 +1,12 @@
+***Tic Tac Toe***
+
+** Parte 2 - Añadir identificadores a los elementos html**
+
+
+1. Añadir un identificador al elemento div.
+2. Añadir un identificador al primer elemento p.
+3. Añadir identificadores a los elementos input.
+4. Añadir identificador al elemento button.
+5. Añadir identificador al último elemento p.
+
+
