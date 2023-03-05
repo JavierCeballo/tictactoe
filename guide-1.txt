@@ -1,0 +1,45 @@
+***Tic Tac Toe***
+
+** Parte 1 **
+
+1. Crear la carpeta del proyecto.
+
+2. Dentro de la carpeta del proyecto, crear 
+el documento "main.html".
+
+3. En el documento anterior, definir los elemntos
+básicos que caracterizan un documento HTML: doctype y
+html y. dentro de este: head y body.
+
+4. Anidadas en el elemento head, difinir los elementos
+meta y title, estableciéndoles el atributo y el contenido
+apropiados.
+
+5. Probar el código y preguntar a los estudiantes qué
+observan.
+
+6. Anidadas en el elemento body, definir los elementos
+h1 y p, otorgándoles el contenido apropiado.
+
+7. Probar el código y preguntar a los estudiantes qué
+observan.
+
+8. Anidadas en el elemento body, definir cuatro elementos
+input con el par atributo-valor -- type="text".
+
+9. Probar el código y preguntar a los estudiantes qué
+observan.
+
+10. Anidadas en el elemento body, definir el resto de elementos
+input con el par atributo-valor -- type="text", procurando
+insertar eleemntos br de forma apropiada para formar la matriz
+3x3 que le darán forma al juego.
+
+11. Luego de los elemntos input, definir un elemento button
+con la palabra RESET como contenido. Esto dará forma al botón
+que permitirá reiniciar el juego.
+
+12. Luego del elemento anterior, definir un elemento p
+cuyo contenido servirá para indicar el turno del jugador.
+
+
