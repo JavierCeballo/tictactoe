@@ -1,0 +1,22 @@
+***Tic Tac Toe***
+
+** Parte 4 - Declarar las funciones en JavaScript**
+
+
+1. Crear el archivo tic.js en la carpeta del proyecto.
+
+2. Enlazar el archivo tic.js con el main.html
+
+3. Probar el código y preguntar a los estudiantes
+qué observan.
+
+4. Declarar las funciones que harán funcionar el juego.
+
+5. Probar el código y preguntar a los estudiantes
+qué observan.
+
+
+
+
+
+
