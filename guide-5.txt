@@ -1,0 +1,17 @@
+***Tic Tac Toe***
+
+** Parte 5 - Escribiendo el código de las funciones del juego en JavaScript**
+
+
+1. Escribir el código de la función myfunc_1.
+
+2. Probar el código y preguntar a los estudiantes qué observan.
+
+4. Enlazar la función myfunc_1 con el elemento input (de id "b1")
+en el archivo main.html escribiendo, además el resto de los
+atributos y sus valores.
+
+5. Probar el código y preguntar a los estudiantes qué observan.
+
+6. Repetir el procedimiento anterior para el resto de las funciones
+después de myfunc_1.
