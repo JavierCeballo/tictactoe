@@ -1,0 +1,14 @@
+***Tic Tac Toe***
+
+** Parte 4 - Declarar las funciones del juego en JavaSCript**
+
+
+1. Crear el archivo tic.js en la carpeta del proyecto.
+
+2. Enlazar los archivos tic.js y main.html.
+
+3. Probar el código y preguntar a los estudiantes qué observan.
+
+4. Declarar las funciones del juego.
+
+5. Probar el código y preguntar a los estudiantes qué observan.
